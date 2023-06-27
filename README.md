@@ -10,9 +10,7 @@
   
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Breno-Python" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="Breno-Django" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-  <img align="center" alt="Breno-Flutter" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">          
+  <img align="center" alt="Breno-Python" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">          
 </div>
  
 <div style="display: inline_block"><br>
